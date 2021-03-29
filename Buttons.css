@@ -1,0 +1,13 @@
+.btn-gallary {
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px 50px;
+}
+
+.btn-gallary .content .code {
+    font-family: "Ubuntu Mono";
+    font-size: 12px;
+    color: #333333;
+    margin-bottom: 12px;
+}

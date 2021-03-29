@@ -1,0 +1,15 @@
+footer {
+    margin-left: 230px;
+    padding: 50px 90px;
+    color: orange;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 12px;
+    text-align: center;
+}
+
+footer > a {
+    font-weight: inherit;
+    font-size: inherit;
+    color: inherit;
+}
